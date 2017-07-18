@@ -11,6 +11,10 @@
 	<h3>zkzkkzk</h3>
 	<h2>branch1상태에서 수정햇어욬ㅋㅋ</h2>
 	<h3>branch1상태에서 또수정</h3>
+<<<<<<< HEAD
 	<h1>master상태에서 추가합니다</h1>
+=======
+	<h4>branch2에서 추가했습니다</h4>
+>>>>>>> branch2
 </body>
 </html>
